@@ -1,3 +1,6 @@
 # SonarWithArduino
-Radar usando arduino, ultrasonic, leds, buzzer
-Graphs inspered Dejan Nedelkovski
+Radar with arduino, ultrasonic, leds, buzzer, mini servo
+
+
+For UI I use Prcessing 3.3.5.
+
