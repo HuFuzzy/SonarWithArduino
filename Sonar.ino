@@ -35,7 +35,6 @@ void loop() {
 
 }
 
-
 void giraMotor(){
 for(int angulo = 14; angulo < 160; angulo++) 
   {                                  
